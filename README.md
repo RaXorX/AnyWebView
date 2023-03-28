@@ -36,3 +36,5 @@ Delete a user (be careful, you may lose important data):
 All the `adb shell pm ...` commands above can be run in an Android terminal simulator(root access granted) as `pm ...`
 
 Reboot to take effect.
+
+# Building On Push
